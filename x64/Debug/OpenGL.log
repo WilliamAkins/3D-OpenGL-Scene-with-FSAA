@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\wakin\onedrive\desktop\real time rendering anti-alasing\cs3s664 - 15029476 (assignment 1)\opengl\source.cpp(133): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\wakin\onedrive\desktop\real time rendering anti-alasing\cs3s664 - 15029476 (assignment 1)\opengl\source.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wakin\onedrive\desktop\real time rendering anti-alasing\cs3s664 - 15029476 (assignment 1)\opengl\source.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\wakin\OneDrive\Desktop\real time rendering anti-alasing\CS3S664 - 15029476 (Assignment 1)\x64\Debug\OpenGL.exe

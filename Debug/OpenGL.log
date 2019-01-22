@@ -1,0 +1,25 @@
+﻿  glad.c
+  Source.cpp
+  ShaderLoader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glad.obj : error LNK2001: unresolved external symbol _glad_debug_glGetIntegerv
+glad.obj : error LNK2001: unresolved external symbol _glad_debug_glGetString
+glad.obj : error LNK2001: unresolved external symbol _glad_debug_glGetStringi
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glAttachShader
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glBindAttribLocation
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glCompileShader
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glCreateProgram
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glCreateShader
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glDeleteProgram
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glDeleteShader
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glGetProgramiv
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glGetProgramInfoLog
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glGetShaderiv
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glGetShaderInfoLog
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glLinkProgram
+ShaderLoader.obj : error LNK2001: unresolved external symbol _glad_debug_glShaderSource
+Source.obj : error LNK2001: unresolved external symbol _glad_debug_glClear
+Source.obj : error LNK2001: unresolved external symbol _glad_debug_glClearColor
+Source.obj : error LNK2001: unresolved external symbol _glad_debug_glViewport
+W:\GoogleDrive\18-19 Modules\1st year graphics\OpenGL\Debug\OpenGL.exe : fatal error LNK1120: 19 unresolved externals
